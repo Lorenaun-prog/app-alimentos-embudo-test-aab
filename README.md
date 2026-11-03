@@ -1,7 +1,5 @@
 # Análisis de embudo de conversión y test A/A/B en aplicación de alimentos.
 
-Nota: El nombre de la empresa ha sido anonimizado por motivos de confidencialidad.
-
 Qué hice:
 
 Limpieza y preparación de datos de eventos de usuario.
@@ -17,8 +15,7 @@ Tecnologías: Python, pandas, numpy, seaborn, matplotlib, scipy, Jupyter Noteboo
 
 # 🍎 Análisis de Comportamiento de Usuarios y Test A/A/B — Aplicación Alimenticia
 
-Nota de confidencialidad:
-Por motivos de seguridad y protección de datos, el nombre de la empresa y algunos detalles contextuales han sido adaptados. El análisis refleja la metodología utilizada y los resultados obtenidos, preservando la confidencialidad de la información original.
+Nota: Proyecto del programa Data Analyst, con datos de un caso práctico.
 
 ## 📌 Contexto
 
